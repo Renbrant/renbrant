@@ -18,6 +18,9 @@ I build and share hands-on engineering projects as a hobby, usually in my free t
 
 Although I have a background in Mechatronics Engineering, my professional career has been entirely focused on business development, including sales, marketing, and strategic growth.
 
+Here you can learn more about my professional background:
+https://www.linkedin.com/in/renatobrant/
+
 Technology has always been a personal passion, and this space is where I reconnect with engineering, experiment, and build things that I genuinely enjoy.
 
 ---
