@@ -39,44 +39,44 @@ Even though most of my audience is 40+, the few young people who were inspired m
 ## 🔊 Audio Amplifier Build Series
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=l1M68YnMbZU" target="_blank">
+  <a href="https://youtu.be/l1M68YnMbZU">
     <img src="https://img.youtube.com/vi/l1M68YnMbZU/hqdefault.jpg" width="300">
   </a>
-  <a href="https://www.youtube.com/watch?v=VIDEO_ID_2" target="_blank">
-    <img src="https://img.youtube.com/vi/VIDEO_ID_2/maxresdefault.jpg" width="300">
+  <a href="https://youtu.be/7MVE_ADX2zo">
+    <img src="https://img.youtube.com/vi/7MVE_ADX2zo/hqdefault.jpg" width="300">
   </a>
-  <a href="https://www.youtube.com/watch?v=VIDEO_ID_3" target="_blank">
-    <img src="https://img.youtube.com/vi/VIDEO_ID_3/maxresdefault.jpg" width="300">
+  <a href="https://youtu.be/RolH8he9F0Y">
+    <img src="https://img.youtube.com/vi/RolH8he9F0Y/hqdefault.jpg" width="300">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=VIDEO_ID_4" target="_blank">
-    <img src="https://img.youtube.com/vi/VIDEO_ID_4/maxresdefault.jpg" width="300">
+  <a href="https://youtu.be/xPFlc_-g1K4">
+    <img src="https://img.youtube.com/vi/xPFlc_-g1K4/hqdefault.jpg" width="300">
   </a>
 </p>
 
-<p align="center"><b>Power Supply • Audio • Protection • Potentiometer</b></p>
+<p align="center"><b>Power Supply • Audio • Potentiometer • Protection</b></p>
 
 ---
 
 ## 🎓 How Audio Amplifiers Work (CFAA)
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=VIDEO_ID_5" target="_blank">
-    <img src="https://img.youtube.com/vi/VIDEO_ID_5/maxresdefault.jpg" width="300">
+  <a href="https://youtu.be/PB0AxsF32tQ">
+    <img src="https://img.youtube.com/vi/PB0AxsF32tQ/hqdefault.jpg" width="300">
   </a>
-  <a href="https://www.youtube.com/watch?v=VIDEO_ID_6" target="_blank">
-    <img src="https://img.youtube.com/vi/VIDEO_ID_6/maxresdefault.jpg" width="300">
+  <a href="https://youtu.be/JykineyO8B4">
+    <img src="https://img.youtube.com/vi/JykineyO8B4/hqdefault.jpg" width="300">
   </a>
-  <a href="https://www.youtube.com/watch?v=VIDEO_ID_7" target="_blank">
-    <img src="https://img.youtube.com/vi/VIDEO_ID_7/maxresdefault.jpg" width="300">
+  <a href="https://youtu.be/cbj_mQlaPwA">
+    <img src="https://img.youtube.com/vi/cbj_mQlaPwA/hqdefault.jpg" width="300">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=VIDEO_ID_8" target="_blank">
-    <img src="https://img.youtube.com/vi/VIDEO_ID_8/maxresdefault.jpg" width="300">
+  <a href="https://youtu.be/pkR1dIMp2M0">
+    <img src="https://img.youtube.com/vi/pkR1dIMp2M0/hqdefault.jpg" width="300">
   </a>
 </p>
 
@@ -87,23 +87,23 @@ Even though most of my audience is 40+, the few young people who were inspired m
 ## 🔌 Speaker Impedance Series
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=VIDEO_ID_9" target="_blank">
-    <img src="https://img.youtube.com/vi/VIDEO_ID_9/maxresdefault.jpg" width="300">
+  <a href="https://youtu.be/_Mb8RILPJ0c">
+    <img src="https://img.youtube.com/vi/_Mb8RILPJ0c/hqdefault.jpg" width="300">
   </a>
-  <a href="https://www.youtube.com/watch?v=VIDEO_ID_10" target="_blank">
-    <img src="https://img.youtube.com/vi/VIDEO_ID_10/maxresdefault.jpg" width="300">
+  <a href="https://youtu.be/MLRA8LKcea8">
+    <img src="https://img.youtube.com/vi/MLRA8LKcea8/hqdefault.jpg" width="300">
   </a>
-  <a href="https://www.youtube.com/watch?v=VIDEO_ID_11" target="_blank">
-    <img src="https://img.youtube.com/vi/VIDEO_ID_11/maxresdefault.jpg" width="300">
+  <a href="https://youtu.be/b7Z7USituko">
+    <img src="https://img.youtube.com/vi/b7Z7USituko/hqdefault.jpg" width="300">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=VIDEO_ID_12" target="_blank">
-    <img src="https://img.youtube.com/vi/VIDEO_ID_12/maxresdefault.jpg" width="300">
+  <a href="https://youtu.be/L1bAJtqMmA0">
+    <img src="https://img.youtube.com/vi/L1bAJtqMmA0/hqdefault.jpg" width="300">
   </a>
-  <a href="https://www.youtube.com/watch?v=VIDEO_ID_13" target="_blank">
-    <img src="https://img.youtube.com/vi/VIDEO_ID_13/maxresdefault.jpg" width="300">
+  <a href="https://youtu.be/xBujJV_C76o">
+    <img src="https://img.youtube.com/vi/xBujJV_C76o/hqdefault.jpg" width="300">
   </a>
 </p>
 
@@ -114,11 +114,11 @@ Even though most of my audience is 40+, the few young people who were inspired m
 ## 📊 Measurement & Audio Tools
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=VIDEO_ID_14" target="_blank">
-    <img src="https://img.youtube.com/vi/VIDEO_ID_14/maxresdefault.jpg" width="300">
+  <a href="https://youtu.be/vevU1cv5svw">
+    <img src="https://img.youtube.com/vi/vevU1cv5svw/hqdefault.jpg" width="300">
   </a>
-  <a href="https://www.youtube.com/watch?v=VIDEO_ID_15" target="_blank">
-    <img src="https://img.youtube.com/vi/VIDEO_ID_15/maxresdefault.jpg" width="300">
+  <a href="https://youtu.be/R15uukCvTv4">
+    <img src="https://img.youtube.com/vi/R15uukCvTv4/hqdefault.jpg" width="300">
   </a>
 </p>
 
@@ -129,14 +129,14 @@ Even though most of my audience is 40+, the few young people who were inspired m
 ## 🔋 Battery Projects
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=VIDEO_ID_16" target="_blank">
-    <img src="https://img.youtube.com/vi/VIDEO_ID_16/maxresdefault.jpg" width="300">
+  <a href="https://youtu.be/IuTdQumrNao">
+    <img src="https://img.youtube.com/vi/IuTdQumrNao/hqdefault.jpg" width="300">
   </a>
-  <a href="https://www.youtube.com/watch?v=VIDEO_ID_17" target="_blank">
-    <img src="https://img.youtube.com/vi/VIDEO_ID_17/maxresdefault.jpg" width="300">
+  <a href="https://youtu.be/iv6pAZklRSs">
+    <img src="https://img.youtube.com/vi/iv6pAZklRSs/hqdefault.jpg" width="300">
   </a>
-  <a href="https://www.youtube.com/watch?v=VIDEO_ID_18" target="_blank">
-    <img src="https://img.youtube.com/vi/VIDEO_ID_18/maxresdefault.jpg" width="300">
+  <a href="https://youtu.be/AEz9T3bA5AE">
+    <img src="https://img.youtube.com/vi/AEz9T3bA5AE/hqdefault.jpg" width="300">
   </a>
 </p>
 
