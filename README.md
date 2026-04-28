@@ -40,7 +40,7 @@ Even though most of my audience is 40+, the few young people who were inspired m
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=l1M68YnMbZU" target="_blank">
-    <img src="https://img.youtube.com/vi/l1M68YnMbZU/maxresdefault.jpg" width="300">
+    <img src="https://img.youtube.com/vi/l1M68YnMbZU/hqdefault.jpg" width="300">
   </a>
   <a href="https://www.youtube.com/watch?v=VIDEO_ID_2" target="_blank">
     <img src="https://img.youtube.com/vi/VIDEO_ID_2/maxresdefault.jpg" width="300">
