@@ -200,7 +200,7 @@ Originally developed as an experimental photography tool, this project reflects 
 
 <p align="center">
   <a href="https://github.com/Renbrant/voxyl">
-    <img src="https://raw.githubusercontent.com/Renbrant/voxyl/main/docs/promo/banner.png" width="100%" alt="Voxyl Banner">
+    <img src="https://raw.githubusercontent.com/Renbrant/voxyl/refs/heads/main/promo/banner.png" width="100%" alt="Voxyl Banner">
   </a>
 </p>
 
