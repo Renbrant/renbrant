@@ -55,6 +55,40 @@ I enjoy projects that make old equipment smarter, everyday systems more useful, 
 
 ---
 
+### 🌡️ [Home Assistant HVAC Balancing](https://github.com/Renbrant/home-assistant-hvac-balancing)
+
+<p align="center">
+  <a href="https://github.com/Renbrant/home-assistant-hvac-balancing">
+    <img src="https://raw.githubusercontent.com/Renbrant/home-assistant-hvac-balancing/main/Photos/home-assistant-hvac-balancing.png" width="100%" alt="Home Assistant HVAC Balancing Banner">
+  </a>
+</p>
+
+A smart HVAC room-balancing system built with **Home Assistant**, temperature sensors, smart register booster fans, and Nest central blower control.
+
+The project was created to solve real temperature imbalance between floors and rooms in my house. During summer, the upstairs bedrooms tend to become warmer than the Kitchen reference area, so Home Assistant dynamically increases airflow to those rooms.
+
+Key highlights:
+
+* Independent temperature monitoring for Kitchen and bedrooms
+* Room-to-reference temperature delta calculation
+* Dynamic 10-level booster fan control
+* Temperature-based adaptive speed curve
+* 0.2°F hysteresis to prevent rapid speed changes
+* Minimum booster airflow while the HVAC is actively cooling
+* Automatic Nest central blower assistance for larger temperature differences
+* 5-minute post-circulation strategy
+* Desired-state control architecture for unreliable Tuya feedback
+* Xtend Tuya integration for unsupported booster fan controls
+* ApexCharts dashboards for real-time and historical analysis
+* HVAC electrical consumption monitoring
+* Automatic startup recovery and periodic state reconciliation
+
+The current implementation has been **field-tested primarily for summer cooling operation**, where Bed 1 and Bed 2 booster fans help move more conditioned air to the upper floor.
+
+A future winter phase will investigate a separate heating strategy, including the possible addition of a **basement booster fan** to address the opposite seasonal problem: the basement becoming significantly colder than the rest of the house.
+
+---
+
 ### 🌱 [irriBRANT — ESP32-C6 Irrigation Controller](https://github.com/Renbrant/ESP32-C6-Irrigation-Controller)
 
 <p align="center">
