@@ -230,26 +230,34 @@ Originally developed as an experimental photography tool, this project reflects 
 
 ---
 
-### 🎧 [Voxyl](https://github.com/Renbrant/voxyl)
+### 🎧 [Voxyl — Social Podcast Playlists](https://github.com/Renbrant/Voxyl-APP)
 
 <p align="center">
-  <a href="https://github.com/Renbrant/voxyl">
-    <img src="https://raw.githubusercontent.com/Renbrant/voxyl/refs/heads/main/promo/banner.png" width="100%" alt="Voxyl Banner">
+  <a href="https://github.com/Renbrant/Voxyl-APP">
+    <img src="https://raw.githubusercontent.com/Renbrant/Voxyl-APP/main/promo/banner.png" width="100%" alt="Voxyl Banner">
   </a>
 </p>
 
-A modern social podcast aggregator that merges RSS podcast feeds with social curation.
+A modern **social podcast platform** that combines traditional RSS technology with community-driven discovery, custom playlists, and a consistent listening experience across web and Android.
 
-Concept features:
+Key highlights:
 
-* Podcast aggregation
-* Shared playlists
-* Social listening discovery
-* Guest and community-driven audio curation
-* Web app beta concept
-* Community-oriented podcast discovery
+* Podcast aggregation from RSS feeds
+* Custom multi-podcast playlists
+* Social discovery and user following
+* Public, followers-only, and private playlist visibility
+* Guest mode for exploring public content
+* Advanced playback with progress tracking, resume, and autoplay
+* Native Android app with background audio support
+* Responsive web application and PWA support
+* Light, Dark, and System themes
+* Cloudflare Pages, Workers, D1, R2, and KV infrastructure
+* Clerk authentication for web and native Android
+* Automated deployments and production version tracking
 
-Voxyl explores how podcast listening can become more social, discoverable, and community-centered.
+Voxyl is currently in **beta** and is available both as a web application and as a directly downloadable Android APK through GitHub Releases.
+
+**[Open Voxyl Web App](https://v.renbrant.com/)** · **[Download Android Release](https://github.com/Renbrant/Voxyl-APP/releases/latest)**
 
 ---
 
